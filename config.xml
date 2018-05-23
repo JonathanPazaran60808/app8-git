@@ -5,10 +5,10 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app8"
 version="1.0.0">
 
-<name> app2 Multi-APP</name>
+<name> app8 Multi-APP</name>
 
 <description>
-Aplicacion que tres APPS
+Aplicacion de tres APPS
 </description>
 
 <author href="https://build.phonegap.com" email="jonathandanielcruzpazaran@gmail.com">
