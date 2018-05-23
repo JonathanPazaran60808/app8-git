@@ -36,12 +36,11 @@ $(document).ready(function(e) {
 		$('#sonar').tap(function(){
 			navigator.notification.beep(2);
 });//cierre del beep
-$('vibrar').tap(function(){
+$('#vibrar').tap(function(){
 	navigator.notification.vibrate(2000);
 });//cierre de vibrar
 	},false);//cierre del deviceready
 });//cierre ready
-	
 	
 
 $(document).ready(function(e){
